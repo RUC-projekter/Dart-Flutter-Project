@@ -6,9 +6,12 @@ Dart: The primary programming language used for app development.
 Flutter: Our choice of the Flutter framework, known for its cross-platform capabilities and expressive UI.
 
 # App Features
-Authentication
+Authentication:
 Log In: Utilizes Firebase for secure user authentication, allowing registered users to access their accounts with ease.
 Sign Up: Firebase also handles user registration, enabling new users to create accounts seamlessly.
 QR Code Screen: QR Code Scanner: The app features a QR code screen that provides users with the ability to scan QR codes, making travel even more convenient.
 Shortest Route to Train Station Optimal Route Finder: Users can access a feature that calculates and displays the shortest and most efficient route to their desired train station.
 Payment Integration Payment Processing: The app offers payment functionality powered by Stripe, allowing users to make payments for various services within the app securely.
+
+# LINK
+https://www.mediafire.com/file/goydgl5kqahpmvh/Rejsekort.rar/file
